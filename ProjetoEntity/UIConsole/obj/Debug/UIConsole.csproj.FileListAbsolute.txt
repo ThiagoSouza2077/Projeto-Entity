@@ -1,0 +1,16 @@
+C:\Users\thiag\Documents\Projetos\ProjetoEntity\UIConsole\bin\Debug\UIConsole.exe.config
+C:\Users\thiag\Documents\Projetos\ProjetoEntity\UIConsole\bin\Debug\UIConsole.exe
+C:\Users\thiag\Documents\Projetos\ProjetoEntity\UIConsole\bin\Debug\UIConsole.pdb
+C:\Users\thiag\Documents\Projetos\ProjetoEntity\UIConsole\obj\Debug\UIConsole.csprojResolveAssemblyReference.cache
+C:\Users\thiag\Documents\Projetos\ProjetoEntity\UIConsole\obj\Debug\UIConsole.exe
+C:\Users\thiag\Documents\Projetos\ProjetoEntity\UIConsole\obj\Debug\UIConsole.pdb
+C:\Users\thiag\Documents\Projetos\ProjetoEntity\UIConsole\bin\Debug\EntityFramework.dll
+C:\Users\thiag\Documents\Projetos\ProjetoEntity\UIConsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thiag\Documents\Projetos\ProjetoEntity\UIConsole\bin\Debug\EntityFramework.xml
+C:\Users\thiag\Documents\Projetos\ProjetoEntity\UIConsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thiag\Documents\Projetos\ProjetoEntity\UIConsole\bin\Debug\Aplicacao.dll
+C:\Users\thiag\Documents\Projetos\ProjetoEntity\UIConsole\bin\Debug\Dominio.dll
+C:\Users\thiag\Documents\Projetos\ProjetoEntity\UIConsole\bin\Debug\Repositorio.dll
+C:\Users\thiag\Documents\Projetos\ProjetoEntity\UIConsole\bin\Debug\Aplicacao.pdb
+C:\Users\thiag\Documents\Projetos\ProjetoEntity\UIConsole\bin\Debug\Dominio.pdb
+C:\Users\thiag\Documents\Projetos\ProjetoEntity\UIConsole\bin\Debug\Repositorio.pdb

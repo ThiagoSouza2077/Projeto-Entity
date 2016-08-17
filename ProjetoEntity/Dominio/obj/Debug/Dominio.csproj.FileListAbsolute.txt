@@ -1,0 +1,5 @@
+C:\Users\thiag\Documents\Projetos\ProjetoEntity\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\thiag\Documents\Projetos\ProjetoEntity\Dominio\bin\Debug\Dominio.dll
+C:\Users\thiag\Documents\Projetos\ProjetoEntity\Dominio\bin\Debug\Dominio.pdb
+C:\Users\thiag\Documents\Projetos\ProjetoEntity\Dominio\obj\Debug\Dominio.dll
+C:\Users\thiag\Documents\Projetos\ProjetoEntity\Dominio\obj\Debug\Dominio.pdb
